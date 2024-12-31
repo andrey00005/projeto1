@@ -20,7 +20,7 @@ body {
   background: #F0E8C2;
   border-radius: 15px;
   box-sizing: border-box;
-  margin: 48px auto 48px;
+  margin: 48px auto 26px;
 }
 
 main {
@@ -34,6 +34,8 @@ section + section {
 #about p + p {
   margin-top: 12px;
 }
+
+
 
 #page img {
   border-radius: 15px;
@@ -53,4 +55,18 @@ h2 {
 h1, h2 {
   color: #291B1A;
   margin-bottom: 4px;
+}
+
+ul {
+  padding-left: 16px;
+}
+
+footer {
+  color: #F0E9C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
